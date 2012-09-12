@@ -43,13 +43,17 @@ matrix=input.map do |line|
   values+[b_val,e_val,dt_val,solar_time_val,delta(values[0]),omega(solar_time_val)]
 end
 p matrix
+threads=[]
 (0..90).step(5) do |slope|
-  slope_rad=2*Math::PI*slope/360
-  (-90..90).step(5) do |rotation|
-    rotation_rad=2*Math::PI*rotation/360
-    matrix.each do |m|
-       p watt(m[8],m[9],slope_rad,rotation_rad)
+  threads<<Thread.new do 
+    slope_rad=2*Math::PI*slope/360
+    (-90..90).step(5) do |rotation|
+      rotation_rad=2*Math::PI*rotation/360
+      matrix.each do |m|
+         p watt(m[8],m[9],slope_rad,rotation_rad)
+      end
     end
   end
 end
+threads.each{|t| t.join}
 p Time.now-start
