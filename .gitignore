@@ -1,2 +1,7 @@
 .DS_Store
 .svn
+
+# Temporary & virtual memory files (vi related)
+*~
+*.swp
+*.swo
