@@ -1,7 +1,36 @@
-##thessaloniki.rb
-Welcome to the official thessaloniki.rb repository
+### thessaloniki.rb
 
-Please visit our wiki for details:
+thessaloniki.rb is a group of (not just) geeks , who love Ruby (among
+other things), live (not just) in Thessaloniki (Greece), and meet at least once a
+month to throw some presentations (sometimes) and have beers (every
+time).
 
-[Wiki](https://github.com/thessaloniki/rb/wiki)
+### Meetups
+
+We have at least one meetup every month. Here are some way to find out
+when the next meetup will be:
+
+* Visit https://github.com/thessaloniki/rb and click Watch to start
+  receiving notifications in your personal GitHub account. Whenever we
+announce a new meetup we create a pull request that has all the details.
+* Follow some core members on Twitter
+  ([@arcandros](https://twitter.com/arcandros),
+  [@amiridis](https://twitter.com/amiridis)
+
+### Membership
+
+We add members to the `thessaloniki/thessrb-members` team, which gives
+you read only access to this repository. There are two ways to become a
+member:
+
+1. Attend a meetup and give your GitHub username to one of the core team
+   members there.
+2. Fork the repository, and create a pull request asking to become a
+   member.
+
+### Meetups
+
+You can find a list of meetups in
+
+https://github.com/thessaloniki/rb/tree/master/meetups
 
