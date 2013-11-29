@@ -19,8 +19,7 @@ announce a new meetup we create a pull request that has all the details.
 
 ### Membership
 
-We add members to the `thessaloniki/thessrb-members` team, which gives
-you read only access to this repository. There are two ways to become a
+We add members to the `thessaloniki/thessrb-members` team, which will possible give you read-only access to various private repositories. It's also a nice way for us to keep track of our members. There are two ways to become a
 member:
 
 1. Attend a meetup and give your GitHub username to one of the core team
@@ -33,4 +32,3 @@ member:
 You can find a list of meetups in
 
 https://github.com/thessaloniki/rb/tree/master/meetups
-
