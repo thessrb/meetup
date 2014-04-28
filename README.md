@@ -1,36 +1,29 @@
-### thessaloniki.rb
+### Thessaloniki Ruby Meetup (thessrb)
 
-thessaloniki.rb is a group of (not just) geeks, who love Ruby (among
-other things), live (not just) in Thessaloniki (Greece), and meet at least once
-a month to throw some presentations (sometimes) and have beers (every time).
+thessrb is a group of (not just) geeks, who love Ruby (among other things),
+live (not just) in Thessaloniki (Greece), and meet at least once a month to
+throw some presentations (sometimes) and have beers (every time).
 
-### Meetups
+### When do you meet?
 
-We have at least one meetup every month. Here are some ways to find out
-when the next meetup will be:
+We have at least one meetup every month. Here are some ways to find out when the
+next meetup will be:
 
-* Visit https://github.com/thessaloniki/rb and click "Watch" to start
-  receiving notifications in your personal GitHub account. Whenever we
-  announce a new meetup we create a pull request that has all the details.
+* Become a member here http://www.meetup.com/thessrb/
+
+* Visit http://git.io/thessrb and click "Watch" to start receiving notifications
+  in your personal GitHub account. Whenever we announce a new meetup we create a
+  pull request that has all the details.
+
 * Follow some core members on Twitter
   ([@arcandros](https://twitter.com/arcandros),
-  [@amiridis](https://twitter.com/amiridis)
+  [@amiridis](https://twitter.com/amiridis),
+  [@hypest](https://twitter.com/hypest))
 
-### Membership
+### Official discussion area
 
-We add members to the `thessaloniki/thessrb-members` team, which will possibly 
-give you read-only access to various private repositories. It's also a nice way 
-for us to keep track of our members.
-	
-There are two ways to become a member:
+http://www.meetup.com/thessrb/messages/boards/
 
-1. Attend a meetup and give your GitHub username to one of the core team
-   members there.
-2. Fork the repository and create a pull request asking to become a
-   member.
+### Meetup history
 
-### Meetups
-
-You can find a list of meetups in
-
-https://github.com/thessaloniki/rb/tree/master/meetups
+http://git.io/thessrb-meetups
