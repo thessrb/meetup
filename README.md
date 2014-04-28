@@ -24,4 +24,4 @@ next meetup will be:
 
 You can find a list of meetups in:
 
-https://github.com/thessaloniki/rb/tree/master/meetups
+http://git.io/thessrb-meetups
