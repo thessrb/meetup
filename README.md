@@ -9,6 +9,8 @@ throw some presentations (sometimes) and have beers (every time).
 We have at least one meetup every month. Here are some ways to find out when the
 next meetup will be:
 
+* Become a member here http://www.meetup.com/thessrb/
+
 * Visit http://git.io/thessrb and click "Watch" to start receiving notifications
   in your personal GitHub account. Whenever we announce a new meetup we create a
   pull request that has all the details.
