@@ -9,10 +9,6 @@ throw some presentations (sometimes) and have beers (every time).
 We have at least one meetup every month. Here are some ways to find out when the
 next meetup will be:
 
-* Visit https://github.com/thessaloniki/rb and click "Watch" to start
-  receiving notifications in your personal GitHub account. Whenever we
-  announce a new meetup we create a pull request that has all the details.
-
 ### Membership
 
 We add members to the `thessaloniki/thessrb-members` team, which will possibly 
@@ -25,6 +21,10 @@ There are two ways to become a member:
    members there.
 2. Fork the repository and create a pull request asking to become a
    member.
+* Visit http://git.io/thessrb and click "Watch" to start receiving notifications
+  in your personal GitHub account. Whenever we announce a new meetup we create a
+  pull request that has all the details.
+
 * Follow some core members on Twitter
   ([@arcandros](https://twitter.com/arcandros),
   [@amiridis](https://twitter.com/amiridis),
