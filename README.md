@@ -4,7 +4,7 @@ thessrb is a group of (not just) geeks, who love Ruby (among other things),
 live (not just) in Thessaloniki (Greece), and meet at least once a month to
 throw some presentations (sometimes) and have beers (every time).
 
-### Meetups
+### When do you meet?
 
 We have at least one meetup every month. Here are some ways to find out when the
 next meetup will be:
