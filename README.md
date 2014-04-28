@@ -20,6 +20,10 @@ next meetup will be:
   [@amiridis](https://twitter.com/amiridis),
   [@hypest](https://twitter.com/hypest))
 
+### Official discussion area
+
+http://www.meetup.com/thessrb/messages/boards/
+
 ### Meetup history
 
 http://git.io/thessrb-meetups
