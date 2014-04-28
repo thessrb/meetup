@@ -22,6 +22,4 @@ next meetup will be:
 
 ### Meetup history
 
-You can find a list of meetups in:
-
 http://git.io/thessrb-meetups
