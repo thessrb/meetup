@@ -20,7 +20,7 @@ next meetup will be:
   [@amiridis](https://twitter.com/amiridis),
   [@hypest](https://twitter.com/hypest))
 
-### Meetups
+### Meetup history
 
 You can find a list of meetups in
 
