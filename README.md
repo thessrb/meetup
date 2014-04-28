@@ -6,8 +6,8 @@ throw some presentations (sometimes) and have beers (every time).
 
 ### Meetups
 
-We have at least one meetup every month. Here are some ways to find out
-when the next meetup will be:
+We have at least one meetup every month. Here are some ways to find out when the
+next meetup will be:
 
 * Visit https://github.com/thessaloniki/rb and click "Watch" to start
   receiving notifications in your personal GitHub account. Whenever we
