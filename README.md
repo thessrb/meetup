@@ -22,6 +22,6 @@ next meetup will be:
 
 ### Meetup history
 
-You can find a list of meetups in
+You can find a list of meetups in:
 
 https://github.com/thessaloniki/rb/tree/master/meetups
