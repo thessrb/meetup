@@ -9,18 +9,6 @@ throw some presentations (sometimes) and have beers (every time).
 We have at least one meetup every month. Here are some ways to find out when the
 next meetup will be:
 
-### Membership
-
-We add members to the `thessaloniki/thessrb-members` team, which will possibly 
-give you read-only access to various private repositories. It's also a nice way 
-for us to keep track of our members.
-	
-There are two ways to become a member:
-
-1. Attend a meetup and give your GitHub username to one of the core team
-   members there.
-2. Fork the repository and create a pull request asking to become a
-   member.
 * Visit http://git.io/thessrb and click "Watch" to start receiving notifications
   in your personal GitHub account. Whenever we announce a new meetup we create a
   pull request that has all the details.
