@@ -1,8 +1,8 @@
 ### Thessaloniki Ruby Meetup (thessrb)
 
-thessaloniki.rb is a group of (not just) geeks, who love Ruby (among
-other things), live (not just) in Thessaloniki (Greece), and meet at least once
-a month to throw some presentations (sometimes) and have beers (every time).
+thess.rb is a group of (not just) geeks, who love Ruby (among other things),
+live (not just) in Thessaloniki (Greece), and meet at least once a month to
+throw some presentations (sometimes) and have beers (every time).
 
 ### Meetups
 
