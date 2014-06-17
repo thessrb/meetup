@@ -22,7 +22,7 @@ next meetup will be:
 
 ### Official discussion area
 
-http://www.meetup.com/thessrb/messages/boards/
+http://git.io/thessrb-discuss
 
 ### Meetup history
 
