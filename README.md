@@ -28,6 +28,6 @@ http://git.io/thessrb-discuss
 
 http://git.io/thessrb-meetups
 
-### Get Your Ruby Thess T-Shirt
+### Get your own thessrb t-shirt
 
 Follow [instructions here](https://gist.github.com/petros/6bd37a0f52ca12633b9f)
