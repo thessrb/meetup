@@ -18,6 +18,7 @@ next meetup will be:
 * Follow some core members on Twitter
   ([@arcandros](https://twitter.com/arcandros),
   [@amiridis](https://twitter.com/amiridis),
+  [@xarisd](https://twitter.com/xarisd),
   [@hypest](https://twitter.com/hypest))
 
 ### Official discussion area
