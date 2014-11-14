@@ -2,7 +2,10 @@
 
 thessrb is a group of (not just) geeks, who love Ruby (among other things),
 live (not just) in Thessaloniki (Greece), and meet at least once a month to
-throw some presentations (sometimes) and have beers (every time).
+throw some presentations (sometimes), and continue with a halaruby (every time).
+
+Halaruby is us leaving the presentation site, and going to a place to have
+beverages, chat, and network.
 
 ### When do you meet?
 
