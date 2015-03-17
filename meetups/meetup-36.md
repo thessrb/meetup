@@ -1,0 +1,31 @@
+#### Thessaloniki Ruby Meetup 36
+
+Share   | http://git.io/thessrb-36
+------- | ------------------------
+When    | Wednesday ?? March 2015 @ 19:00 - 21:00
+Twitter | [#thessrb](https://twitter.com/search?src=typd&q=%23thessrb)
+Where   | City College, MP room, Leontos Sofou 3, **5th Floor**
+Map     | http://goo.gl/maps/Qec7e
+Title   | ?
+By      | ?
+RSVP    | ?
+FB      | ?
+
+#### Schedule
+
+Time          | Duration | Action
+------------- | -------- | -----------------------------
+18:45 - 19:00 | 15 min   | Organizers & speakers arrive
+19:00 - 19:15 | 15 min   | Attendants arrive
+19:15 - 19:30 | 15 min   | Rubyzino
+19:30 - 20:30 | 60 min   | Main presentation
+20:30 - 20:45 | 15 min   | Questions
+20:45 - 21:00 | 15 min   | Closing & networking
+
+#### Summary
+
+???
+
+#### About the speaker
+
+???
