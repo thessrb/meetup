@@ -2,7 +2,7 @@
 
 Share   | http://git.io/thessrb-36
 ------- | ------------------------
-When    | Wednesday ?? March 2015 @ 19:00 - 21:00
+When    | Friday 27 March 2015 @ 19:00 - 21:00
 Twitter | [#thessrb](https://twitter.com/search?src=typd&q=%23thessrb)
 Where   | City College, MP room, Leontos Sofou 3, **5th Floor**
 Map     | http://goo.gl/maps/Qec7e
