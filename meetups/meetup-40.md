@@ -1,0 +1,36 @@
+#### Thessaloniki Ruby Meetup 40
+
+Share   | http://git.io/thessrb-40
+------- | ------------------------
+When    | Day XX January 2016 @ 19:00 - 21:00
+Twitter | [#thessrb](http://bit.ly/1VCOXGU)
+Where   | City College, Auditorium room, Leontos Sofou 3, **5th Floor**
+Map     | http://goo.gl/maps/Qec7e
+1       | **???** by [???](https://github.com/???)
+2       | **???** by [???](https://github.com/???)
+RSVP    |
+FB      |
+
+#### Schedule
+
+Time          | Duration | Action
+------------- | -------- | -----------------------------
+18:45 - 19:00 | 15 min   | Organizers & speakers arrive
+19:00 - 19:15 | 15 min   | Attendants arrive
+19:15 - 19:30 | 15 min   | Rubyzino
+19:30 - 20:00 | 30 min   | ???
+20:00 - 20:15 | 15 min   | Q&A
+20:15 - 20:45 | 30 min   | ???
+20:45 - 21:00 | 15 min   | Q&A
+21:00 - ??:?? | ?? min   | Halaruby
+
+#### Summary for 1
+
+#### About ???
+
+#### Summary for 2
+
+#### About [Speaker]
+
+#### Resources
+
