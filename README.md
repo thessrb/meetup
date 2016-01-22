@@ -1,3 +1,5 @@
+## This Tuesday @ 19:00 [Meetup 40](https://git.io/vz8fJ) - Happy Anniversary thessrb! You turn 40!
+
 ### Thessaloniki Ruby Meetup (thessrb)
 
 thessrb is a group of (not just) geeks, who love Ruby (among other things),
@@ -11,8 +13,6 @@ beverages, chat, and network.
 
 We have at least one meetup every month. Here are some ways to find out when the
 next meetup will be:
-
-## CURRENT MEETUP: https://git.io/vz8fJ
 
 * Become a member here http://www.meetup.com/thessrb/
 
