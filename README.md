@@ -12,6 +12,8 @@ beverages, chat, and network.
 We have at least one meetup every month. Here are some ways to find out when the
 next meetup will be:
 
+## CURRENT MEETUP: https://git.io/vz8fJ
+
 * Become a member here http://www.meetup.com/thessrb/
 
 * Visit http://git.io/thessrb and click "Watch" to start receiving notifications
