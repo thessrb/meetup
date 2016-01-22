@@ -1,9 +1,9 @@
-### Task list for new meetups template
+### Task list for new meetups pull request body template
 
 This is what I use to remember what I need to do every time I start planning a new meetup:
 
 - [ ] Find a date and a place
-- [ ] Create a file named YYYYMMDD-meetup-NN in the meetups directory
+- [ ] Rename `meetup-%filltext:name=NN%.md` to `YYYYMMDD-meetup-%filltext:name=NN%.md` in the meetups directory
 - [ ] Fill in a nice title
 - [ ] Fill in a summary of the presentation
 - [ ] Fill in the name of the speaker as a link to their GitHub account
@@ -13,7 +13,8 @@ This is what I use to remember what I need to do every time I start planning a n
 - [ ] Create the meetup.com event
 - [ ] Create the facebook event
 - [ ] Add the links here
+- [ ] Replace first line in README.md with `## MMM DD Meetup-%filltext:name=NN% - A short title`
 - [ ] When all above are checked off, merge this
-- [ ] Create a git.io URL with code thessrb-NN to the permanent link of this file
+- [ ] Create a git.io URL with code thessrb-%filltext:name=NN% to the permanent link of `YYYYMMDD-meetup-%filltext:name=NN%.md`
 - [ ] Add event to [SKGTech Calendar](http://skgtech.io/submit-event/)
 - [ ] Go crazy announcing the meetup everywhere
