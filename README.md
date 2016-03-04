@@ -1,4 +1,4 @@
-## This Tuesday @ 19:00 [Meetup 40](https://git.io/vz8fJ) - Happy Anniversary thessrb! You turn 40!
+## This Tuesday @ 19:00 [Meetup 41](https://git.io/thessrb-41) - How to build a Rails 5 application and deploy it to Heroku
 
 ### Thessaloniki Ruby Meetup (thessrb)
 
