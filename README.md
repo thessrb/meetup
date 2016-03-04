@@ -1,4 +1,4 @@
-## This Tuesday @ 19:00 [Meetup 41](https://git.io/thessrb-41) - How to build a Rails 5 application and deploy it to Heroku
+## This Tuesday @ 19:00 [Meetup 41](https://git.io/v25rI) - How to build a Rails 5 application and deploy it to Heroku
 
 ### Thessaloniki Ruby Meetup (thessrb)
 
