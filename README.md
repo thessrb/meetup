@@ -1,5 +1,3 @@
-## This Tuesday @ 19:00 [Meetup 41](https://git.io/v25rI) - How to build a Rails 5 application and deploy it to Heroku
-
 ### Thessaloniki Ruby Meetup (thessrb)
 
 thessrb is a group of (not just) geeks, who love Ruby (among other things),
