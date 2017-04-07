@@ -1,0 +1,8 @@
+title: Thessaloniki Ruby Meetup (thessrb)
+description: Official thessaloniki.rb repository
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
